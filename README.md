@@ -16,5 +16,6 @@ Example:-
          Response: OK, D1
 
 Max Dimming Level: 0 ~ 254
+
 BUY Product - [Dimmer](https://sharvielectronics.com/product/serial-uart-interface-dimming-controller/)
 ![image](https://github.com/SharviElectronics/Serial-UART-interface-Dimming-controller/assets/29948774/954a2b5c-55f3-4816-b319-745c9e9c0f03)
